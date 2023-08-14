@@ -38,9 +38,9 @@ console.log(a++);
 console.log(++a);
 输出11，同时a值变为12
 console.log(–b);
-9
+10
 console.log(b–);
-9
+8
 
 四、分别使用行内式、内嵌式、引入外部文件的方法造成网页弹窗，要求触发弹窗的 JavaScript 命令不止一种（alert、print、prompt）。
 行内
